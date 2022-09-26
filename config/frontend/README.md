@@ -1,7 +1,3 @@
-# events-tailwind-ErQgTbEfU
-
-This site was built from the [Events Tailwind](https://github.com/builtjs/builtjs-theme-events-tailwind) Built.JS theme.
-
 ## Installation and running the site locally
 1. Create a fresh Next.JS project
 ```
